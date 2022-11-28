@@ -1,0 +1,19 @@
+body{
+	color: #5d5d5d;
+  	margin-top: 50px;
+ 	text-align: center;
+ 	background: linear-gradient(to right, rgb(247, 225, 115), rgb(228, 111, 251));
+ }
+ 
+ h1, input, h2, h3{
+ 	text-align: center;
+ 	letter-spacing: 0.1em;
+ }
+ h1{
+ 	padding-bottom: 20px;
+ 	text-transform: uppercase;
+ 	letter-spacing: 0.5em;
+ }
+
+
+
