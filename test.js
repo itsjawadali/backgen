@@ -1,3 +1,8 @@
+var _ = require('lodash');
+var array= [2, 3, 4, 5, 6, 7];
+console.log(_.pull(array, 4, 6));
+
+
 var h5 = document.querySelector("h5");
 var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
